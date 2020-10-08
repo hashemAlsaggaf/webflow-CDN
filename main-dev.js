@@ -1,1 +1,1 @@
-console.log("Main-dev.js is connected!");
+console.alert("Main-dev.js is connected!");
